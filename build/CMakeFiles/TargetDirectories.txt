@@ -1,0 +1,5 @@
+/Users/mac/documents/1/android_submodule/android2/build/CMakeFiles/imgui.dir
+/Users/mac/documents/1/android_submodule/android2/build/CMakeFiles/implot.dir
+/Users/mac/documents/1/android_submodule/android2/build/CMakeFiles/example_app.dir
+/Users/mac/documents/1/android_submodule/android2/build/CMakeFiles/edit_cache.dir
+/Users/mac/documents/1/android_submodule/android2/build/CMakeFiles/rebuild_cache.dir
