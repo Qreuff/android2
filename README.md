@@ -59,7 +59,7 @@
 
 ## Сборка проекта
 
-**Зависимости:** `cmake`, `g++` (C++17), `libsdl2-dev`, `libglew-dev`, `libcurl4-openssl-dev`, `libzmq3-dev`, `libpqxx-dev`, `postgresql-server-dev-all`.
+**Зависимости:** `cmake`, `g++` (C++17), `libsdl2-dev`, `libglew-dev`, `libcurl4-openssl-dev`, `libpng-dev`, `libzmq3-dev`, `cppzmq-dev`, `libpqxx-dev`, `nlohmann-json3-dev`, `Dear ImGui`, `ImPlot`.
 
 ```bash
 mkdir build && cd build
