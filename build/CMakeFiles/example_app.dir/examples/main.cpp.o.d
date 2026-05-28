@@ -1,5 +1,5 @@
 CMakeFiles/example_app.dir/examples/main.cpp.o: \
-  /Users/mac/documents/1/android_submodule/android2/examples/main.cpp \
+  /Users/mac/Documents/1/android_submodule/android2/examples/main.cpp \
   /opt/homebrew/include/GL/glew.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/cstddef \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__assert \
@@ -1077,7 +1077,7 @@ CMakeFiles/example_app.dir/examples/main.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/assert.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/_assert.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/_static_assert.h \
-  /opt/homebrew/include/nlohmann/json.hpp \
+  /Users/mac/Documents/1/android_submodule/android2/third_party/nlohmann/json.hpp \
   /opt/homebrew/include/nlohmann/adl_serializer.hpp \
   /opt/homebrew/include/nlohmann/detail/abi_macros.hpp \
   /opt/homebrew/include/nlohmann/detail/conversions/from_json.hpp \
@@ -1141,8 +1141,33 @@ CMakeFiles/example_app.dir/examples/main.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/any \
   /opt/homebrew/include/nlohmann/detail/macro_unscope.hpp \
   /opt/homebrew/include/nlohmann/thirdparty/hedley/hedley_undef.hpp \
-  /Users/mac/documents/1/android_submodule/android2/third_party/imgui/imgui.h \
-  /Users/mac/documents/1/android_submodule/android2/third_party/imgui/imconfig.h \
-  /Users/mac/documents/1/android_submodule/android2/third_party/implot/implot.h \
-  /Users/mac/documents/1/android_submodule/android2/third_party/imgui/backends/imgui_impl_opengl3.h \
-  /Users/mac/documents/1/android_submodule/android2/third_party/imgui/backends/imgui_impl_sdl2.h
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/curl/curl.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/curl/curlver.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/curl/system.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/socket.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/constrained_ctypes.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/machine/_param.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/arm/_param.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/net/net_kev.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/_types/_sa_family_t.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/_types/_socklen_t.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/_types/_iovec_t.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/time.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/_types/_timeval64.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/_select.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/curl/easy.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/curl/multi.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/curl/urlapi.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/curl/options.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/curl/header.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/curl/websockets.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/curl/mprintf.h \
+  /opt/homebrew/include/png.h /opt/homebrew/include/pnglibconf.h \
+  /opt/homebrew/include/pngconf.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/setjmp.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/set \
+  /Users/mac/Documents/1/android_submodule/android2/third_party/imgui/imgui.h \
+  /Users/mac/Documents/1/android_submodule/android2/third_party/imgui/imconfig.h \
+  /Users/mac/Documents/1/android_submodule/android2/third_party/implot/implot.h \
+  /Users/mac/Documents/1/android_submodule/android2/third_party/imgui/backends/imgui_impl_opengl3.h \
+  /Users/mac/Documents/1/android_submodule/android2/third_party/imgui/backends/imgui_impl_sdl2.h

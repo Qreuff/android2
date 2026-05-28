@@ -1,7 +1,7 @@
 CMakeFiles/imgui.dir/third_party/imgui/imgui_widgets.cpp.o: \
-  /Users/mac/documents/1/android_submodule/android2/third_party/imgui/imgui_widgets.cpp \
-  /Users/mac/documents/1/android_submodule/android2/third_party/imgui/imgui.h \
-  /Users/mac/documents/1/android_submodule/android2/third_party/imgui/imconfig.h \
+  /Users/mac/Documents/1/android_submodule/android2/third_party/imgui/imgui_widgets.cpp \
+  /Users/mac/Documents/1/android_submodule/android2/third_party/imgui/imgui.h \
+  /Users/mac/Documents/1/android_submodule/android2/third_party/imgui/imconfig.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/float.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__config \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__config_site \
@@ -108,7 +108,7 @@ CMakeFiles/imgui.dir/third_party/imgui/imgui_widgets.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/_types/_mode_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/_assert.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/_static_assert.h \
-  /Users/mac/documents/1/android_submodule/android2/third_party/imgui/imgui_internal.h \
+  /Users/mac/Documents/1/android_submodule/android2/third_party/imgui/imgui_internal.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/stdio.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/stdio.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/_stdio.h \
@@ -284,4 +284,4 @@ CMakeFiles/imgui.dir/third_party/imgui/imgui_widgets.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/arm/limits.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/arm/_limits.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/syslimits.h \
-  /Users/mac/documents/1/android_submodule/android2/third_party/imgui/imstb_textedit.h
+  /Users/mac/Documents/1/android_submodule/android2/third_party/imgui/imstb_textedit.h

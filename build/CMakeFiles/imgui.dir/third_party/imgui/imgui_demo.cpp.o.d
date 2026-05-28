@@ -1,7 +1,7 @@
 CMakeFiles/imgui.dir/third_party/imgui/imgui_demo.cpp.o: \
-  /Users/mac/documents/1/android_submodule/android2/third_party/imgui/imgui_demo.cpp \
-  /Users/mac/documents/1/android_submodule/android2/third_party/imgui/imgui.h \
-  /Users/mac/documents/1/android_submodule/android2/third_party/imgui/imconfig.h \
+  /Users/mac/Documents/1/android_submodule/android2/third_party/imgui/imgui_demo.cpp \
+  /Users/mac/Documents/1/android_submodule/android2/third_party/imgui/imgui.h \
+  /Users/mac/Documents/1/android_submodule/android2/third_party/imgui/imconfig.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/float.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__config \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__config_site \

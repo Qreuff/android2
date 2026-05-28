@@ -1,7 +1,7 @@
 CMakeFiles/imgui.dir/third_party/imgui/backends/imgui_impl_sdl2.cpp.o: \
-  /Users/mac/documents/1/android_submodule/android2/third_party/imgui/backends/imgui_impl_sdl2.cpp \
-  /Users/mac/documents/1/android_submodule/android2/third_party/imgui/imgui.h \
-  /Users/mac/documents/1/android_submodule/android2/third_party/imgui/imconfig.h \
+  /Users/mac/Documents/1/android_submodule/android2/third_party/imgui/backends/imgui_impl_sdl2.cpp \
+  /Users/mac/Documents/1/android_submodule/android2/third_party/imgui/imgui.h \
+  /Users/mac/Documents/1/android_submodule/android2/third_party/imgui/imconfig.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/float.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__config \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__config_site \
@@ -108,7 +108,7 @@ CMakeFiles/imgui.dir/third_party/imgui/backends/imgui_impl_sdl2.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/_types/_mode_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/_assert.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/_static_assert.h \
-  /Users/mac/documents/1/android_submodule/android2/third_party/imgui/backends/imgui_impl_sdl2.h \
+  /Users/mac/Documents/1/android_submodule/android2/third_party/imgui/backends/imgui_impl_sdl2.h \
   /opt/homebrew/Cellar/sdl2/2.32.10/include/SDL2/SDL.h \
   /opt/homebrew/Cellar/sdl2/2.32.10/include/SDL2/SDL_main.h \
   /opt/homebrew/Cellar/sdl2/2.32.10/include/SDL2/SDL_stdinc.h \

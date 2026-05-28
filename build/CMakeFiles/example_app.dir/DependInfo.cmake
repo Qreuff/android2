@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/mac/documents/1/android_submodule/android2/examples/main.cpp" "CMakeFiles/example_app.dir/examples/main.cpp.o" "gcc" "CMakeFiles/example_app.dir/examples/main.cpp.o.d"
+  "/Users/mac/Documents/1/android_submodule/android2/examples/main.cpp" "CMakeFiles/example_app.dir/examples/main.cpp.o" "gcc" "CMakeFiles/example_app.dir/examples/main.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

@@ -1,7 +1,7 @@
 CMakeFiles/imgui.dir/third_party/imgui/backends/imgui_impl_opengl3.cpp.o: \
-  /Users/mac/documents/1/android_submodule/android2/third_party/imgui/backends/imgui_impl_opengl3.cpp \
-  /Users/mac/documents/1/android_submodule/android2/third_party/imgui/imgui.h \
-  /Users/mac/documents/1/android_submodule/android2/third_party/imgui/imconfig.h \
+  /Users/mac/Documents/1/android_submodule/android2/third_party/imgui/backends/imgui_impl_opengl3.cpp \
+  /Users/mac/Documents/1/android_submodule/android2/third_party/imgui/imgui.h \
+  /Users/mac/Documents/1/android_submodule/android2/third_party/imgui/imconfig.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/float.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__config \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__config_site \
@@ -108,7 +108,7 @@ CMakeFiles/imgui.dir/third_party/imgui/backends/imgui_impl_opengl3.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/_types/_mode_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/_assert.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/_static_assert.h \
-  /Users/mac/documents/1/android_submodule/android2/third_party/imgui/backends/imgui_impl_opengl3.h \
+  /Users/mac/Documents/1/android_submodule/android2/third_party/imgui/backends/imgui_impl_opengl3.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/TargetConditionals.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/stdio.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/stdio.h \
@@ -119,7 +119,7 @@ CMakeFiles/imgui.dir/third_party/imgui/backends/imgui_impl_opengl3.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/_types/_seek_set.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/_ctermid.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/_types/_off_t.h \
-  /Users/mac/documents/1/android_submodule/android2/third_party/imgui/backends/imgui_impl_opengl3_loader.h \
+  /Users/mac/Documents/1/android_submodule/android2/third_party/imgui/backends/imgui_impl_opengl3_loader.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/dlfcn.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/stdbool.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/16/include/stdbool.h

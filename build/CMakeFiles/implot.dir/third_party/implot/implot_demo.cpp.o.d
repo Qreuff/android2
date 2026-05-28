@@ -1,8 +1,8 @@
 CMakeFiles/implot.dir/third_party/implot/implot_demo.cpp.o: \
-  /Users/mac/documents/1/android_submodule/android2/third_party/implot/implot_demo.cpp \
-  /Users/mac/documents/1/android_submodule/android2/third_party/implot/implot.h \
-  /Users/mac/documents/1/android_submodule/android2/third_party/imgui/imgui.h \
-  /Users/mac/documents/1/android_submodule/android2/third_party/imgui/imconfig.h \
+  /Users/mac/Documents/1/android_submodule/android2/third_party/implot/implot_demo.cpp \
+  /Users/mac/Documents/1/android_submodule/android2/third_party/implot/implot.h \
+  /Users/mac/Documents/1/android_submodule/android2/third_party/imgui/imgui.h \
+  /Users/mac/Documents/1/android_submodule/android2/third_party/imgui/imconfig.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/float.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__config \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__config_site \
@@ -283,8 +283,8 @@ CMakeFiles/implot.dir/third_party/implot/implot_demo.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/_types/_clock_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/_types/_time_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/sys/_types/_timespec.h \
-  /Users/mac/documents/1/android_submodule/android2/third_party/implot/implot_internal.h \
-  /Users/mac/documents/1/android_submodule/android2/third_party/imgui/imgui_internal.h \
+  /Users/mac/Documents/1/android_submodule/android2/third_party/implot/implot_internal.h \
+  /Users/mac/Documents/1/android_submodule/android2/third_party/imgui/imgui_internal.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/16/include/limits.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/limits.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/usr/include/machine/limits.h \
